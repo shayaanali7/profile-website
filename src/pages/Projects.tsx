@@ -16,7 +16,7 @@ const Projects: React.FC = () => {
       date: 'Summer 2025',
       category: 'web',
       showUrl: true,
-      showCode: false,
+      showCode: true,
     },
     {
       id: 2,
